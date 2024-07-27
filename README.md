@@ -52,4 +52,4 @@ Plan Outfits: Use the outfit planner to organize your wardrobe for upcoming even
 Explore Analytics: View insights into your wardrobe usage and preferences.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/kwt3/VirtualStylist/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kwt3/VirtualStylist/blob/main/LICENSE.md) file for details.
